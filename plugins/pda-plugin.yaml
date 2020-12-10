@@ -1,5 +1,6 @@
 kind: "EntandoPlugin"
 apiVersion: "entando.org/v1"
+deploymentBaseName: "entando-pda-plugin"
 metadata:
   name: "pda-plugin"
 spec:
