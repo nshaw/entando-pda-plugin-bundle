@@ -8,6 +8,7 @@ components:
   widgets:
     - widgets/overtime-graph-descriptor.yaml
     - widgets/pda-connections-descriptor.yaml
+    - widgets/pda-sidebar-navigation-descriptor.yaml
     - widgets/process-definition-descriptor.yaml
     - widgets/process-form-descriptor.yaml
     - widgets/process-list-descriptor.yaml
